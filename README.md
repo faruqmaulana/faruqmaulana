@@ -33,11 +33,15 @@ Made with ♥ in my bedroom.
 
 <details>
   <summary>My stats in Github</summary>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faruqmaulana&show_icons=true">
   <img src="https://github-profile-trophy.vercel.app/?username=faruqmaulana">
+  </div>
 </details>
 
 <details>
   <summary>My Wakatime breakdown</summary>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruqmaulana&layout=compact">
+  </div>
 </details>
