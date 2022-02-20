@@ -27,7 +27,7 @@ You can reach me here:<br><br>
 
 Made with ♥ in my bedroom.
 <br>
-<a href="https://fm-space.vercel.app" style="color: #2E3440;">fm-space.vercel.app</a>
+<a href="https://fm-space.vercel.app" target="_blank" style="color: #2E3440;">fm-space.vercel.app</a>
 
 </div>
 
