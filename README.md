@@ -37,9 +37,6 @@ Made with ♥ in my bedroom.
 <br>
 <a href="https://fm-space.vercel.app" target="_blank" style="color: #2E3440;">fm-space.vercel.app</a>
 
-<strong>Beberapa aplikasi yang saya deploy ke <a href="http://herokuapp.com/">herokuapp</a> mengalami error, karena saya menggunakan akun versi gratis. Sehingga ada batas kuota yang mereka berikan kepada tiap pengguna. Jika anda menemukan ada aplikasi yang error, maka kemungkinan bisa anda akses kembali dengan normal pada bulan depan hehe.</strong>
-</div>
-
 <details>
   <summary>My stats in Github</summary>
   <div align="center">
