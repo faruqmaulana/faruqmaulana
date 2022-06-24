@@ -9,11 +9,13 @@
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/tailwindcss%20-%230A1121.svg?&style=for-the-badge&logo=tailwindcss&logoColor=%2339BDF9"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/strapi-%23FEFFFE.svg?style=for-the-badge&logo=strapi&logoColor=8F74FF"/>
   <br><br>
-  
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
@@ -51,3 +53,4 @@ Created by me with deep love 🖤.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faruqmaulana&layout=compact">
   </div>
 </details>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faruqmaulana&theme=dracula"/>
