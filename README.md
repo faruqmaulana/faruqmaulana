@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://c.tenor.com/hqNMcANaeQEAAAAM/yas-queen.gif"/>
-  <h3>kak hrd hire aku dong xixi :3</h3>
 </div>
 
 ---
