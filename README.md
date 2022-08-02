@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://c.tenor.com/hqNMcANaeQEAAAAM/yas-queen.gif"/>
-</div>
+![Faruq Maulana's Card Name](https://cardivo.vercel.app/api?name=Faruq%20Maulana&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/88839109?v=4&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=faruq.maulana&github=faruqmaualana&twitter=promiseee123&pattern=topography&colorPattern=%23fe01ff&opacity=0.2&fontColor=%23eff4f6)
 
 ---
 
