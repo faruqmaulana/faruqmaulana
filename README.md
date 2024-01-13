@@ -3,7 +3,7 @@
 <!-- --- -->
 
 <div align="center">
-  Hi all 👋, I'm Faruq Maulana a 19 years old guy who love code and open source.
+  Hi all 👋, I'm Faruq Maulana a 21 years old guy who love code and open source.
   <br><br>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
