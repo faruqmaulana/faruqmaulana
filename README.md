@@ -1,4 +1,5 @@
-![Faruq Maulana's Card Name](https://cardivo.vercel.app/api?name=Faruq%20Maulana&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/88839109?v=4&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=faruq.maulana&github=faruqmaualana&twitter=promiseee123&pattern=topography&colorPattern=%23fe01ff&opacity=0.2&fontColor=%23eff4f6)
+<!-- ![Faruq Maulana's Card Name](https://cardivo.vercel.app/api?name=Faruq%20Maulana&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/88839109?v=4&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=faruq.maulana&github=faruqmaualana&twitter=promiseee123&pattern=topography&colorPattern=%23fe01ff&opacity=0.2&fontColor=%23eff4f6) -->
+
 <!-- <img src="https://raw.githubusercontent.com/gist/s-shivangi/7b54ec766cf446cafeb83882b590174d/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif"/> -->
 <!-- --- -->
 
@@ -40,13 +41,13 @@ Created by me with deep love 🖤.
 <br>
 <a href="https://fm-space.vercel.app" target="_blank" style="color: #2E3440;">fm-space.vercel.app</a>
 
-<details>
+<!-- <details>
   <summary>My stats in Github</summary>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faruqmaulana&show_icons=true">
   <img src="https://github-profile-trophy.vercel.app/?username=faruqmaulana">
   </div>
-</details>
+</details> -->
 
 <details>
   <summary>My Wakatime breakdown</summary>
