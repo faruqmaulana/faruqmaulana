@@ -35,12 +35,6 @@ You can reach me here:<br><br>
 </a>
 <a href="https://t.me/faruqmaulanaa" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-Created by me with deep love 🖤.
-<br>
-<a href="https://fm-space.vercel.app" target="_blank" style="color: #2E3440;">fm-space.vercel.app</a>
-
 <!-- <details>
   <summary>My stats in Github</summary>
   <div align="center">
